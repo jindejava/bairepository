@@ -1,1 +1,1 @@
-hello git,
+test git command, thanks
