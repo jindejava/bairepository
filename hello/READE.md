@@ -1,1 +1,1 @@
-test git command, thanks
+测试git，谢谢
